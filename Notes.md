@@ -14,7 +14,7 @@ Principles of Chaos Engineering:
 
     Plan an Experiment. (create an hypothesis)
     Contain the Blast radius. 
-    Scale or Squash.
+    Scale or Squash..
 
 Benefits of Chaos Engineering:
 
